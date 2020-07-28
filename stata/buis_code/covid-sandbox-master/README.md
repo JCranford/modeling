@@ -19,3 +19,5 @@ defines the model, `nw.do` and `curves.do` run this model to create
 the results shown in [this video](https://youtu.be/2KS-I74xUOM), and 
 `cscript.do` the certification script that documents how I have tested
 `covid.mata`.
+
+(My updated URL for [the video](https://www.youtube.com/watch?v=cV6xKMjiwFE) I think *should* get to the video as the link above (provided in the original readme file).
