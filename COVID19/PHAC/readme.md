@@ -4,6 +4,8 @@ The Public Health Agency of Canada (PHAC) produced a mathematical model purporti
 
 I am entirely unsure how much effort (and *ability*) that I will be able to bring to this task, however.
 
+I have read the article through *once* and cannot find any reference to their equations or code. I will try again later today.
+
 ## Overview of the model
 
 The authors describe the model as having several characteristics:
